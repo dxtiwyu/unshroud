@@ -1,0 +1,21 @@
+ smoke
+
+ Timestamp is 6afabc72 (Mon Nov 16 13:48:58 2026)
+
+ Preferred load address is 0000000180000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 000000a5H .text                   CODE
+
+  Address         Publics by Value              Rva+Base               Lib:Object
+
+ 0001:00000000       smoke_mba_add              0000000180001000     0_smoke.o
+ 0001:00000010       smoke_branch               0000000180001010     0_smoke.o
+ 0001:00000020       smoke_opaque               0000000180001020     0_smoke.o
+ 0001:00000040       smoke_args4                0000000180001040     0_smoke.o
+ 0001:00000070       smoke_helpers              0000000180001070     0_smoke.o
+
+ entry point at         0000:00000000
+
+ Static symbols
+

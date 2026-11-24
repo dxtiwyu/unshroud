@@ -1,0 +1,10 @@
+Unshroud
+Copyright 2026 dxtiwyu
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It uses third-party software included as git submodules, each under its own license (see THIRD_PARTY_NOTICES.md):
+  - Zydis and Zycore (deps/zydis), MIT License, Copyright (c) Florian Bernd, Joel Höner
+  - nanobind (deps/nanobind), BSD 3-Clause License, Copyright (c) Wenzel Jakob
+  - robin-map (deps/nanobind/ext/robin_map), MIT License, Copyright (c) Thibaut Goetghebuer-Planchon
+  - Bitwuzla (deps/bitwuzla), MIT License, Copyright (c) the Bitwuzla authors

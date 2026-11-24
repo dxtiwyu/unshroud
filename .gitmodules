@@ -1,0 +1,10 @@
+[submodule "deps/zydis"]
+	path = deps/zydis
+	url = https://github.com/zyantific/zydis.git
+[submodule "deps/nanobind"]
+	path = deps/nanobind
+	url = https://github.com/wjakob/nanobind.git
+[submodule "deps/bitwuzla"]
+	path = deps/bitwuzla
+	url = https://github.com/bitwuzla/bitwuzla.git
+	ignore = untracked

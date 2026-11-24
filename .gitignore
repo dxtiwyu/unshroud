@@ -1,0 +1,12 @@
+build/
+__pycache__/
+*.pyc
+*.pdb
+*.ilk
+*.obj
+# local benchmark outputs
+bench/gamba/data/
+bench/gamba/*.jsonl
+bench/gamba/*_summary.txt
+deps/bitwuzla-build/
+deps/bitwuzla-install/

@@ -1,0 +1,76 @@
+ mut
+
+ Timestamp is 0305c1b3 (content hash, gen_mut.normalize_timestamp)
+
+ Preferred load address is 0000000180000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 0001490cH .text                   CODE
+
+  Address         Publics by Value              Rva+Base               Lib:Object
+
+ 0001:00000000       mut_00_light               0000000180001000     0_mut.o
+ 0001:00000060       mut_00_medium              0000000180001060     0_mut.o
+ 0001:00000150       mut_00_heavy               0000000180001150     0_mut.o
+ 0001:000004a0       mut_01_light               00000001800014a0     0_mut.o
+ 0001:00000540       mut_01_medium              0000000180001540     0_mut.o
+ 0001:000006d0       mut_01_heavy               00000001800016d0     0_mut.o
+ 0001:00000b80       mut_02_light               0000000180001b80     0_mut.o
+ 0001:00000cd0       mut_02_medium              0000000180001cd0     0_mut.o
+ 0001:00000fb0       mut_02_heavy               0000000180001fb0     0_mut.o
+ 0001:00001980       mut_03_light               0000000180002980     0_mut.o
+ 0001:00001aa0       mut_03_medium              0000000180002aa0     0_mut.o
+ 0001:00001d50       mut_03_heavy               0000000180002d50     0_mut.o
+ 0001:00002500       mut_04_light               0000000180003500     0_mut.o
+ 0001:000026a0       mut_04_medium              00000001800036a0     0_mut.o
+ 0001:00002b60       mut_04_heavy               0000000180003b60     0_mut.o
+ 0001:00003a30       mut_05_light               0000000180004a30     0_mut.o
+ 0001:00003ba0       mut_05_medium              0000000180004ba0     0_mut.o
+ 0001:00004080       mut_05_heavy               0000000180005080     0_mut.o
+ 0001:00004e30       mut_06_light               0000000180005e30     0_mut.o
+ 0001:00004ff0       mut_06_medium              0000000180005ff0     0_mut.o
+ 0001:000054c0       mut_06_heavy               00000001800064c0     0_mut.o
+ 0001:00006440       mut_07_light               0000000180007440     0_mut.o
+ 0001:000064e0       mut_07_medium              00000001800074e0     0_mut.o
+ 0001:000066c0       mut_07_heavy               00000001800076c0     0_mut.o
+ 0001:00006bd0       mut_08_light               0000000180007bd0     0_mut.o
+ 0001:00006d50       mut_08_medium              0000000180007d50     0_mut.o
+ 0001:000070b0       mut_08_heavy               00000001800080b0     0_mut.o
+ 0001:00007a00       mut_09_light               0000000180008a00     0_mut.o
+ 0001:00007b10       mut_09_medium              0000000180008b10     0_mut.o
+ 0001:00007da0       mut_09_heavy               0000000180008da0     0_mut.o
+ 0001:000085d0       mut_10_light               00000001800095d0     0_mut.o
+ 0001:00008710       mut_10_medium              0000000180009710     0_mut.o
+ 0001:00008a80       mut_10_heavy               0000000180009a80     0_mut.o
+ 0001:00009500       mut_11_light               000000018000a500     0_mut.o
+ 0001:000096e0       mut_11_medium              000000018000a6e0     0_mut.o
+ 0001:00009c10       mut_11_heavy               000000018000ac10     0_mut.o
+ 0001:0000ac50       mut_12_light               000000018000bc50     0_mut.o
+ 0001:0000ae40       mut_12_medium              000000018000be40     0_mut.o
+ 0001:0000b350       mut_12_heavy               000000018000c350     0_mut.o
+ 0001:0000c1b0       mut_13_light               000000018000d1b0     0_mut.o
+ 0001:0000c470       mut_13_medium              000000018000d470     0_mut.o
+ 0001:0000c940       mut_13_heavy               000000018000d940     0_mut.o
+ 0001:0000d800       mut_14_light               000000018000e800     0_mut.o
+ 0001:0000d950       mut_14_medium              000000018000e950     0_mut.o
+ 0001:0000dc50       mut_14_heavy               000000018000ec50     0_mut.o
+ 0001:0000e4a0       mut_15_light               000000018000f4a0     0_mut.o
+ 0001:0000e5f0       mut_15_medium              000000018000f5f0     0_mut.o
+ 0001:0000ea30       mut_15_heavy               000000018000fa30     0_mut.o
+ 0001:0000f740       mut_16_light               0000000180010740     0_mut.o
+ 0001:0000f870       mut_16_medium              0000000180010870     0_mut.o
+ 0001:0000fb00       mut_16_heavy               0000000180010b00     0_mut.o
+ 0001:00010340       mut_17_light               0000000180011340     0_mut.o
+ 0001:000105b0       mut_17_medium              00000001800115b0     0_mut.o
+ 0001:00010b50       mut_17_heavy               0000000180011b50     0_mut.o
+ 0001:00011ba0       mut_18_light               0000000180012ba0     0_mut.o
+ 0001:00011d30       mut_18_medium              0000000180012d30     0_mut.o
+ 0001:000121d0       mut_18_heavy               00000001800131d0     0_mut.o
+ 0001:00012f90       mut_19_light               0000000180013f90     0_mut.o
+ 0001:000131e0       mut_19_medium              00000001800141e0     0_mut.o
+ 0001:000137b0       mut_19_heavy               00000001800147b0     0_mut.o
+
+ entry point at         0000:00000000
+
+ Static symbols
+
